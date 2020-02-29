@@ -1,0 +1,19 @@
+{
+  "name": "simpel-express",
+  "version": "0.0.1",
+  "description": "express simple af",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "haikal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.3"
+  }
+}

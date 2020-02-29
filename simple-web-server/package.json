@@ -1,0 +1,15 @@
+{
+  "name": "simpel-web-server",
+  "version": "0.0.1",
+  "description": "pertemuan pertama",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "haikal",
+  "license": "ISC"
+}
