@@ -4,6 +4,7 @@ const app = express();
 
 app.get("/", function(req, res) {
   res.send("Hello World");
+  cd;
 });
 
 app.get("/haikal", function(req, res) {
